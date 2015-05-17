@@ -24,9 +24,9 @@ Example:
 Good!
 
 00000000
-// This is a blank line
-// End of file
+-> This is a blank line
+-> End of file
 
 Bad!
 
-00000000 // End of file
+00000000 -> End of file
