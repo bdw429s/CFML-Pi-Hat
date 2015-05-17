@@ -9,7 +9,7 @@ Data is translated to XML and then called into JavaScript to render the animatio
 
 =To Use:=
 
-Simply browse to the location of the <code>Emulate.cfm</code> file (Located in the <code>/emulator<code> folder) in a web browser and append <code>?animation=<em>ScriptToRender</em></code> to the end of the URL.
+Simply browse to the location of the <code>Emulate.cfm</code> file (Located in the <code>/emulator</code> folder) in a web browser and append <code>?animation=<em>ScriptToRender</em></code> to the end of the URL.
 
 The URL should look similar to this: <code>http://localhost/emulator/emulate.cfm?animation=lucee</code>
 
@@ -23,10 +23,10 @@ Example:
 
 Good!
 
-->	00000000
-->  // This is a blank line
-->	// End of file
+00000000
+// This is a blank line
+// End of file
 
 Bad!
 
-->	00000000 // End of file
+00000000 // End of file
